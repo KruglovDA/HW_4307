@@ -31,21 +31,21 @@ Pull- "вытягивать" из интернета.
 
 ## Домашнее задание
 
-_1. Заходим на github.com_
-_2. fork-аем репозиторий_
-_3. Кликаем <>Code, копируем HTTPS файл_
-_4. Заходим в vscode, кликаем clone repositoty_
-_5. git status - проверяем в правильной ли мы папке_
-_6. Создаем свою ветку git checkout -b newbrabch_
-_7. Добавляем свой файл (filename) с нужным расширением_
-_8. Пишем нашу инструкцию_
-_9. git add filename_
-_10. git commit -m 'commit'_
-_11. git push --set-upstream origin DavydovaEV_
-_12. Заходим на github.com, там появляется кнопка compare&pull request, кликаем ее_
-_13. Сохраняем pull request и высылаем ссылку_
-_14. Заходим по присланной ссылке, смотрим ее и кликаем Merge pull request_
-_15. Confirm merge_
-_16. Homework is done!!!_
+* _1. Заходим на github.com_
+* _2. fork-аем репозиторий_
+* _3. Кликаем <>Code, копируем HTTPS файл_
+* _4. Заходим в vscode, кликаем clone repositoty_
+* _5. git status - проверяем в правильной ли мы папке_
+* _6. Создаем свою ветку git checkout -b newbrabch_
+* _7. Добавляем свой файл (filename) с нужным расширением_
+* _8. Пишем нашу инструкцию_
+* _9. git add filename_
+* _10. git commit -m 'commit'_
+* _11. git push --set-upstream origin DavydovaEV_
+* _12. Заходим на github.com, там появляется кнопка compare&pull request, кликаем ее_
+* _13. Сохраняем pull request и высылаем ссылку_
+* _14. Заходим по присланной ссылке, смотрим ее и кликаем Merge pull request_
+* _15. Confirm merge_
+### Homework is done!!!
        
        
