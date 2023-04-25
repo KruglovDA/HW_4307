@@ -41,7 +41,7 @@ Pull- "вытягивать" из интернета.
 * _8. Пишем нашу инструкцию_
 * _9. git add filename_
 * _10. git commit -m 'commit'_
-* _11. git push --set-upstream origin ...(копируем предложенную git-ом ссылку)
+* _11. git push --set-upstream origin ...(копируем предложенную git-ом ссылку)_
 * _12. Заходим на github.com, там появляется кнопка compare&pull request, кликаем ее_
 * _13. Сохраняем pull request и высылаем ссылку_
 * _14. Заходим по присланной ссылке, смотрим ее и кликаем Merge pull request_
